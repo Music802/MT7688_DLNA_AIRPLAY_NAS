@@ -1,0 +1,2 @@
+MT7688_DLNA_AIRPLAY_NAS
+---uboot-for-mt7688/mt7628
